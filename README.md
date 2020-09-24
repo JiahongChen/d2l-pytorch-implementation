@@ -7,7 +7,7 @@ Notebooks in this repo are more or less like the practice session during the sel
 
 This repo also provides sample code to run some interesting algorithms that was mentioned but not implemented in the original book/course, using Pytorch pretrained models:
 * AlexNet
-* [VGG](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12_6_VGG.ipynb)
+* [VGG](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_6_VGG.ipynb)
 * ResNet
 * Faster RCNN
 * Mask RCNN
