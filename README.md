@@ -3,6 +3,11 @@
 # Pytorch Implementation for the book "Dive Into Deep Learning"
 This repo reproduces codes in the course STAT 157 (UC Berkeley, Fall 2019, https://courses.d2l.ai/) using Pytorch. The textbook for this course is "Dive Into Deep Learning" (http://d2l.ai/). 
 
-Compared to the original MxNet implementation, notebooks in this repo provides more code comments, lecture notes, and it is entirely implemented using pytorch packages. 
+Notebooks in this repo are more or less like the practice session during the self-learning of the book and the course. So, compared to the original MxNet implementation, notebooks in this repo may contain more code comments, lecture notes, and it is entirely implemented using pytorch packages. 
 
-This repo also provides code for some interesting algorithms (e.g., Mask-CNN), which was not implemented in the original book/course, using Pytorch pretrained models.
+This repo also provides code for some interesting algorithms that was mentioned but not implemented in the original book/course, using Pytorch pretrained models:
+* AlexNet
+* [VGG](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12_6_VGG.ipynb)
+* ResNet
+* Faster RCNN
+* Mask RCNN
