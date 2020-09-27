@@ -15,3 +15,8 @@ This repo also provides sample code to run some interesting algorithms that was 
 This repo also compares some interesting differece between MxNet and PyTorch
 * [Tranfer between tensors/ndarray and numpy array](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L01%20Introduction%20to%20Deep%20Learning/L2_1_torch_tensors_tutorial.ipynb).
 * [Modify the number of class of output layer in pretrained model output](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L15%20Image%20Augmentation%2C%20Fine%20Turning%2C%20Neural%20Style/L15_3_Fine_Tuning.ipynb).
+
+
+## Todo
+* L15/5 Style Transfer
+* L16/7 Single Shot Multibox Detection
