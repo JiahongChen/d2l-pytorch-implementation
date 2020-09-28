@@ -20,3 +20,4 @@ This repo also compares some interesting differece between MxNet and PyTorch
 ## Todo
 * L15/5 Style Transfer
 * L16/7 Single Shot Multibox Detection
+* L19 RNN/GRU/LSTM
