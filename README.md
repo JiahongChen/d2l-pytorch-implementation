@@ -3,7 +3,7 @@
 # Pytorch Implementation for book "Dive Into Deep Learning" and course Berkeley STAT 157
 This repo reproduces codes in the course STAT 157 (UC Berkeley, Fall 2019, https://courses.d2l.ai/) using Pytorch. The textbook for this course is "Dive Into Deep Learning" (http://d2l.ai/).
 
-Notebooks in this repo are more or less a practice coding session during the self-learning of the book and the course. So, compared to the original MxNet implementation, notebooks in this repo may contain more code comments, lecture notes, some personal options, and it is implemented entirely based on pytorch packages. 
+Notebooks in this repo are more or less a practice coding session during the self-learning of the book and the course. So, compared to the original MxNet implementation, notebooks in this repo may contain more code comments, lecture notes, some personal options, and it is implemented entirely based on pytorch packages (does not need d2l package). 
 
 This repo also provides sample code to run some interesting algorithms mentioned in the book using Pytorch pretrained models:
 * [AlexNet](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_4_AlexNet.ipynb)
