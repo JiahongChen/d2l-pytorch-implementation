@@ -13,9 +13,9 @@ This repo also provides sample code to run some interesting algorithms that was 
 * Mask RCNN
 
 This repo also compares some interesting differece between MxNet and PyTorch
-* [Tranfer between tensors/ndarray and numpy array](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L01%20Introduction%20to%20Deep%20Learning/L2_1_torch_tensors_tutorial.ipynb).
+* [Tranfer between tensors/ndarray and numpy array](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L01%20Introduction%20to%20Deep%20Learning/L2_1_torch_tensors_tutorial.ipynb)
 * [Multi-GPU training](https://github.com/JiahongChen/d2l-pytorch-implementation/tree/master/L14%20Computation%20Performance%2C%20Multi-GPU%20and%20Multi-Machine%20Training)
-* [Modify the number of class of output layer in pretrained model output](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L15%20Image%20Augmentation%2C%20Fine%20Turning%2C%20Neural%20Style/L15_3_Fine_Tuning.ipynb).
+* [Modify the number of class of output layer in pretrained model output](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L15%20Image%20Augmentation%2C%20Fine%20Turning%2C%20Neural%20Style/L15_3_Fine_Tuning.ipynb)
 
 
 ## Todo
