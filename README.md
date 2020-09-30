@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Pytorch Implementation for book "Dive Into Deep Learning" and course Berkeley STAT 157
-This repo reproduces codes in the course STAT 157 (UC Berkeley, Fall 2019, https://courses.d2l.ai/) using Pytorch. The textbook for this course is "Dive Into Deep Learning" (http://d2l.ai/). 
+This repo reproduces codes in the course STAT 157 (UC Berkeley, Fall 2019, https://courses.d2l.ai/) using Pytorch. The textbook for this course is "Dive Into Deep Learning" (http://d2l.ai/). The structure of this repo follows the [course syllabus](https://courses.d2l.ai/berkeley-stat-157/syllabus.html).
 
 Notebooks in this repo are more or less a practice coding session during the self-learning of the book and the course. So, compared to the original MxNet implementation, notebooks in this repo may contain more code comments, lecture notes, some personal options, and it is implemented entirely based on pytorch packages. 
 
@@ -20,4 +20,3 @@ This repo also compares some interesting differece between MxNet and PyTorch
 ## Todo
 * L15/5 Style Transfer
 * L16/7 Single Shot Multibox Detection
-* L19 RNN/GRU/LSTM
