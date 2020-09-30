@@ -40,7 +40,7 @@ The structure of this repo follows STAT 157 [syllabus](https://courses.d2l.ai/be
 * L20 Bi-LSTM, Deep RNNs
 * L22 Word2vec, FastText, GloVe, Sentiment Analysis
 * L23 Encoder-Decoder, Seq2seq, Machine Translation
-* L24 [Attention, Transformer, BERT]
+* L24 Attention, Transformer, BERT
 * L25 [Convex Optimization, Convergence Rate](https://github.com/JiahongChen/d2l-pytorch-implementation/tree/master/L25%20Convex%20Optimization%2C%20Convergence%20Rate)
 * L26 [Momentum, AdaGrad, RMSProp, Adam](https://github.com/JiahongChen/d2l-pytorch-implementation/tree/master/L26%20Momentum%2C%20AdaGrad%2C%20RMSProp%2C%20Adam)
 
