@@ -9,8 +9,6 @@ This repo also provides sample code to run some interesting algorithms mentioned
 * [AlexNet](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_4_AlexNet.ipynb)
 * [VGG](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_6_VGG.ipynb)
 * [ResNet](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L13%20Residual%20Networks%20and%20Advanced%20Architectures/L13_6_ResNet_MNIST_Pytorch.ipynb)
-* Faster RCNN
-* Mask RCNN
 
 This repo also compares some interesting differece between MxNet and PyTorch
 * [Tranfer between tensors/ndarray and numpy array](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L01%20Introduction%20to%20Deep%20Learning/L2_1_torch_tensors_tutorial.ipynb)
@@ -47,6 +45,9 @@ The structure of this repo follows STAT 157 [syllabus](https://courses.d2l.ai/be
 ## Todo
 * L15/5 Style Transfer
 * L16/7 Single Shot Multibox Detection
+* Faster RCNN
+* Mask RCNN
+* NLP models
 
 
 ## Citation
