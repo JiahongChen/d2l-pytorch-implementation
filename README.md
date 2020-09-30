@@ -5,10 +5,10 @@ This repo reproduces codes in the course STAT 157 (UC Berkeley, Fall 2019, https
 
 Notebooks in this repo are more or less a practice coding session during the self-learning of the book and the course. So, compared to the original MxNet implementation, notebooks in this repo may contain more code comments, lecture notes, some personal options, and it is implemented entirely based on pytorch packages. 
 
-This repo also provides sample code to run some interesting algorithms that was mentioned but not implemented in the original book/course, using Pytorch pretrained models:
+This repo also provides sample code to run some interesting algorithms mentioned in the book using Pytorch pretrained models:
 * [AlexNet](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_4_AlexNet.ipynb)
 * [VGG](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L12%20Basic%20Convolutional%20Networks/L12_6_VGG.ipynb)
-* ResNet
+* [ResNet](https://github.com/JiahongChen/d2l-pytorch-implementation/blob/master/L13%20Residual%20Networks%20and%20Advanced%20Architectures/L13_6_ResNet_MNIST_Pytorch.ipynb)
 * Faster RCNN
 * Mask RCNN
 
